@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageCapture</string>
+    <string name="image">Click Image</string>
+    <string name="gallery">Gallery Image</string>
+</resources>
